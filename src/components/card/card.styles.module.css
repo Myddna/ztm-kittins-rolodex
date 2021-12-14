@@ -1,0 +1,26 @@
+.Card {
+  width: calc(20% - 1rem);
+  min-width: 250px;
+  box-sizing: border-box;
+  margin: 0.5rem;
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+  background-color: #95dada;
+  border: 1px solid grey;
+  border-radius: 5px;
+  cursor: pointer;
+  -moz-osx-font-smoothing: grayscale;
+  backface-visibility: hidden;
+  transform: translateZ(0);
+  transition: transform 0.25s ease-out;
+}
+
+.Card:hover {
+  transform: scale(1.05);
+}
+
+.Card img {
+  margin-left: auto;
+  margin-right: auto;
+}
