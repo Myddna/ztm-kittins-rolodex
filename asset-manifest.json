@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ztm-kittins-rolodex/static/css/main.45182c55.chunk.css",
+    "main.js": "/ztm-kittins-rolodex/static/js/main.1bb0717c.chunk.js",
+    "main.js.map": "/ztm-kittins-rolodex/static/js/main.1bb0717c.chunk.js.map",
+    "runtime-main.js": "/ztm-kittins-rolodex/static/js/runtime-main.39f135f4.js",
+    "runtime-main.js.map": "/ztm-kittins-rolodex/static/js/runtime-main.39f135f4.js.map",
+    "static/js/2.7536330e.chunk.js": "/ztm-kittins-rolodex/static/js/2.7536330e.chunk.js",
+    "static/js/2.7536330e.chunk.js.map": "/ztm-kittins-rolodex/static/js/2.7536330e.chunk.js.map",
+    "static/js/3.ff9a4ae5.chunk.js": "/ztm-kittins-rolodex/static/js/3.ff9a4ae5.chunk.js",
+    "static/js/3.ff9a4ae5.chunk.js.map": "/ztm-kittins-rolodex/static/js/3.ff9a4ae5.chunk.js.map",
+    "index.html": "/ztm-kittins-rolodex/index.html",
+    "static/css/main.45182c55.chunk.css.map": "/ztm-kittins-rolodex/static/css/main.45182c55.chunk.css.map",
+    "static/js/2.7536330e.chunk.js.LICENSE.txt": "/ztm-kittins-rolodex/static/js/2.7536330e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.39f135f4.js",
+    "static/js/2.7536330e.chunk.js",
+    "static/css/main.45182c55.chunk.css",
+    "static/js/main.1bb0717c.chunk.js"
+  ]
+}
